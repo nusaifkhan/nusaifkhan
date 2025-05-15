@@ -15,30 +15,23 @@ Welcome to my GitHub profile! I'm passionate about tech, programming, and solvin
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
   
-- **DevOps Tools**: 
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-  - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
-  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-  - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
-  - ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=circleci&logoColor=white)
+# DevOps Stack
 
-- **Cloud**: 
-  - ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white)
+## DevOps Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=circleci&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
 
-- **Frontend**: 
-  - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+## Cloud  
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?logo=amazonaws&logoColor=white)  
 
-- **Backend**: 
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-  - ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+## Others  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
-- **Database**: 
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-- **Others**: 
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
   
 
 ## 🌱 Current Projects
